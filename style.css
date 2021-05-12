@@ -1,0 +1,57 @@
+#copyright{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#copyright:p{
+    color:#a7c5eb;
+
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    color: yellow;
+}
+body{
+    background-color: #413c69;
+
+}
+
+
+.center {
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+#textarea{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin-top: 3%;
+    padding: 30px;
+height: 350px;}
+h1{
+    color: white;
+    font-size: 60px;
+}
+#start{
+    margin-top: 3%;
+}
+.link{
+    background-color: rgba(255, 0, 0, 0.692);
+    display: block;
+    margin-top: 10px;
+}
+.link:hover{
+    background-color: red;
+ 
+}
+#title{
+margin-top: 10px;
+margin-bottom: 40px;
+color: #a7c5eb;
+}
